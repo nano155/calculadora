@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{ width: 50%;
+    padding: 25px;
+    background-color: aqua;
+    text-align: center;
+    margin-inline: 25%;
+}
+ul{
+    margin-top: 20rem;
+    text-align: center;
+}
+.opcion-1{
+    list-style: none;
+    background-color: rgb(194, 240, 125);
+    width: 25%;
+    padding: 25px;
+    margin-inline: 40%;
+    
+}
+.opcion-2{
+    list-style: none;
+    background-color: rgb(221, 134, 255);
+    width: 25%;
+    padding: 25px;
+    margin-inline: 40%;
+    margin-top: 25px;
+    
+}
+.opcion-3{
+    list-style: none;
+    background-color: rgb(255, 199, 79);
+    width: 25%;
+    padding: 25px;
+    margin-inline: 40%;
+    margin-top: 25px;
+}
